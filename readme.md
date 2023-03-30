@@ -1,7 +1,8 @@
 ## FIFA 21 Analysis
 
 ### Project Description
-I am conducting an end-to-end analysis of the FIFA 21 dataset (*fifa21_male2.csv*). The analysis includes a linear regression aiming at resolving the problem **"Rank Forward Players by Market Value"**.
+I am conducting an end-to-end analysis of the FIFA 21 dataset (*fifa21_male2.csv*). The analysis includes a linear regression aiming at resolving the problem **"Rank Forward Players by Market Value"**. 
+To sum up the outcome of my prediction model: It appears that average market value of forward players will increase. But for the current top ten forward players, and some others for that matter, predicted market value actually reduces.
 This mini project is part of the IRONHACK Data Analysis bootcamp from January to June 2023.
 
 ### Usage Instructions
